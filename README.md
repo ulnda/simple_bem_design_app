@@ -1,1 +1,1 @@
-# Simple adaptive design app
+# Simple BEM design app
